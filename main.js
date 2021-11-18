@@ -38,7 +38,7 @@ const labels2 = ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'];
 const data2 = {
     labels: labels2,
     datasets: [{
-        label: 'My First dataset',
+        label: 'My second dataset',
         backgroundColor: [
             'rgba(255, 99, 132)',
             'rgba(54, 162, 235)',
